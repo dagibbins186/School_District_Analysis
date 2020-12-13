@@ -81,4 +81,4 @@ Students that fell within the <$564 category performed the best in comparison to
 !["SpendingPerStudent_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SpendingPerStudent_ExcludeTH9th.png)
 \
 \
-In the $630-$644 range, scores decreased about 6-7% for the % of students passing math, reading and overall. Notably, students who attended schools with lower per pupil spending (<$584 or $585-$629) did better than students who attended schools with high per pupil spending ($630-$640 or $645-675).
+In the $630-$644 range, scores decreased about 6-7% for the % of students passing math, reading and overall. Notably, students who attended schools with lower per pupil spending (<$584 or $585-$629) did better than students who attended schools with higher per pupil spending ($630-$640 or $645-675).

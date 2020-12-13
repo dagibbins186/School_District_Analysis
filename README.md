@@ -55,6 +55,7 @@ Among medium-size schools, the initial analysis showed 94% of students passing m
 \
 Similarly, performance among charter schools became worse after excluding the Thomas High School 9th graders. 
 \
+\
 *Before*
 \
 !["Charter_District_School_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Charter_District_School_All.png)

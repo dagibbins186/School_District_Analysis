@@ -17,6 +17,7 @@ Griffin High School moved into second place after the scores of Thomas High Scho
 \
 The district's overall performance look similar before and after Thomas High School's data alterations.
 \
+\
 *Before:*
 \
 !["School_District_Analysis/blob/main/Images/District_Summary_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/District_Summary_All.png)
@@ -24,5 +25,6 @@ The district's overall performance look similar before and after Thomas High Sch
 *After:*
 \
 !["School_District_Analysis/blob/main/Images/District_Summary_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/District_Summary_ExcludeTH9th.png)
+\
 \
 Overall performance dropped about 1% across 3 indicators of achievement: students passing math, reading and overall. These scores decreased to 74%, 86% and 64% respectively.

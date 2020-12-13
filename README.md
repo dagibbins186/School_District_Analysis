@@ -67,3 +67,9 @@ In both scenarios, charter schools do better than the district schools. The aver
 \
 **School Performance by Budget** 
 \
+*Before*
+\
+!["SpendingPerStudent_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SpendingPerStudent_All.png)
+\
+*After*
+\

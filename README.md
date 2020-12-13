@@ -16,6 +16,7 @@ Griffin High School moved into second place after the scores of Thomas High Scho
 \
 \
 **District Performance with and without Thomas High School**
+\
 The district's overall performance look similar before and after Thomas High School's data alterations.
 \
 \

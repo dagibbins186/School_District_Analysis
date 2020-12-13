@@ -51,7 +51,7 @@ Similarly, performance among charter schools became worse after excluding the Th
 \
 *Before*
 \
-!["SchoolType_Spending_Size_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SchoolType_Spending_Size_All.png)
+!["Charter_District_School_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Charter_District_School_All.png)
 \
 *After*
 \

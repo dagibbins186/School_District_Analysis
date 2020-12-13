@@ -10,7 +10,7 @@ The evaluation ranked students' overall performance by the top 5 schools. Initia
 \
 The top five high schools for overall performance were:
 \
-!["Top_5_HIGH_Schools_Overall_Performance_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Top_5_HIGH_Schools_Overall_Performance_ExcludeTH9th.png)
+!["Top_5_Schools_OverallScores_ExcludeTH9th_withCode"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Top_5_Schools_OverallScores_ExcludeTH9th_withCode.png)
 \
 Griffin High School moved into second place after the scores of Thomas High School's ninth graders were removed from the analysis. Wright High School shifted into the fifth ranking. Thomas High School's upper classman did not perform as well as Wright High School's upper classman. For example, Wright High School's 11th graders earned 83.84% in math. Its 12th graders obtained a 84.07% in reading. Comparatively, Thomas High School's 11th graders received math scores of 83.50%. It's 12th graders posted reading scores of 83.83%. While the score-differences beween the high schools appeared marginal, it effectively pushed Thomas High School out of the top-five-schools-list.
 \

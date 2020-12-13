@@ -71,6 +71,7 @@ In both scenarios, charter schools finished better than district schools. The av
 \
 Students that fell within the <$564 category performed the best in comparison to other spending-categories across the board. Thomas High School affected the performance of schools in the $630-$644 range of per pupil spending.
 \
+\
 *Before*
 \
 !["SpendingPerStudent_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SpendingPerStudent_All.png)

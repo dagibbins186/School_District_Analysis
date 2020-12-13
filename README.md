@@ -36,7 +36,7 @@ Overall performance dropped about 1% across 3 indicators of achievement: student
 \
 **School Performance by Size** 
 \
-Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000 students), Thomas High School fell into the medium category. Without its 9th graders scores, the performance of 'medium' size schools decreased dramatically. 
+Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000 students), Thomas High School fell into the medium category. Without Thomas High School's 9th-grader-scores, the performance of 'medium' size schools decreased dramatically. 
 \
 \
 *Before*

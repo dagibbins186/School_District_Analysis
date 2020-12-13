@@ -64,7 +64,7 @@ Similarly, performance among charter schools became worse after excluding the Th
 \
 !["Charter_District_School_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Charter_District_School_ExcludeTH9th.png)
 \
-In both scenarios, charter schools did better than the district schools. The average math and average reading scores also did not change. However, the % of students passing in math, reading and overall went down 3-4 percentage points among charter schools. 
+In both scenarios, charter schools finished better than the district schools. The average math and average reading scores also did not change. However, the % of students passing in math, reading and overall went down 3-4 percentage points among charter schools. 
 \
 \
 **School Performance by Budget** 

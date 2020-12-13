@@ -48,7 +48,7 @@ Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 stude
 !["SchoolSize_Scores_Exclude_TH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SchoolSize_Scores_Exclude_TH9th.png)
 \
 \
-Among medium-size schools, the initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools. In general, larger schools (2,000-5,000 students) had the worst student scores and small schools (<1000) had the best student scores.
+Among medium-size schools, the initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall. In general, largest schools (2,000-5,000 students) had the worst student scores, and smallest schools (<1000) had the best student scores.
 \
 \
 **School Performance by Type** 

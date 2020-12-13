@@ -18,7 +18,7 @@ The district's overall performance look similar before and after Thomas High Sch
 \
 Before:
 \
-IMAGE
+!["School_District_Analysis/blob/main/Images/District_Summary_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/District_Summary_All.png)
 \
 After:
 \

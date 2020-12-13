@@ -38,7 +38,7 @@ Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 stude
 \
 *Before*
 \
-IMAGE
+!["SchoolSize_Scores_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SchoolSize_Scores_All.png)
 \
 *After*
 \

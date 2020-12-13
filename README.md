@@ -4,6 +4,8 @@ This analysis examines 15 schools' and 39,170 students' reading and math perform
 # Executive Summary
 \
 The evaluation ranked students' overall performance by the top 5 schools. Initially, Cabrera High School (1) and Thomas High School (2) demonstrated the top marks for both reading and math. However, evidence of academic dishonesty came to light for Thomas High School's ninth graders. As a result, a second analysis removed this problematic data, and replaced the reading and math scores with "not a number value" (NaN). Griffin High School assumed the second-place-ranking afterward. The cheating scandel nominally affected the district's performance. Reading, math, and overall scores dropped about 1% to 74%, 86% and 64% respectively when the Thomas High School-9th grade-scores were excluded.
+
+Thomas High School is a charter school with about 1,635 students and a budget of $1,043,130. Its % of students passing math (93.27%), reading (97.31%) and overall marks (90.95%) dropped 26.36%, 30.4% and 25.87% to 66.91%, 69.66%, 65.08%. Even though only 461 student scores switched to NaN, it greatly affected Thomas High School's profile as well as the profiles of schools it falls into: Charter Schools, Medium Size Schools, and Schools with $630-644 per Pupil-Spending. Per the school district's request, this report focuses on the ways that Thomas High School situation affects district-outcomes.
 # Results
 \
 **Overall Performance by Schools**
@@ -32,10 +34,7 @@ The district's overall performance look similar before and after Thomas High Sch
 Overall performance dropped about 1% across 3 indicators of achievement: students passing math, reading and overall. These scores decreased to 74%, 86% and 64% respectively.
 \
 \
-**Other Comparisions** 
-\
-Thomas High School is a charter school with about 1,635 students and a budget of $1,043,130. Its % of students passing math (93.27%), reading (97.31%) and overall marks (90.95%) dropped 26.36%, 30.4% and 25.87% to 66.91%, 69.66%, 65.08%. Even though only 461 student scores switched to NaN, it greatly affected Thomas High School's profile.
-\
+**School Performance by Size** 
 \
 Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000) students, Thomas High School falls into the medium category. Without its 9th graders scores, the performance of 'medium' size schools decreased dramatically. 
 \
@@ -52,6 +51,7 @@ Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 stude
 The initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools.
 \
 \
+**School Performance by Type** 
 Similarly, performance among charter schools became worse after excluding the Thomas High School 9th graders. 
 \
 *Before*
@@ -63,3 +63,7 @@ Similarly, performance among charter schools became worse after excluding the Th
 !["Charter_District_School_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Charter_District_School_ExcludeTH9th.png)
 \
 In both scenarios, charter schools do better than the district schools. The average math and average reading scores also do not change. However, the % of students passing in math, reading and overall goes down 3-4 percentage points among charter schools. 
+\
+\
+**School Performance by Budget** 
+\

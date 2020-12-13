@@ -48,7 +48,7 @@ Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 stude
 !["SchoolSize_Scores_Exclude_TH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SchoolSize_Scores_Exclude_TH9th.png)
 \
 \
-The initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools.
+The initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools. In general, larges schools (2,000-5,000 students) had the worse student scores and small schools (<1000) had the best student scores.
 \
 \
 **School Performance by Type** 
@@ -67,9 +67,15 @@ In both scenarios, charter schools do better than the district schools. The aver
 \
 **School Performance by Budget** 
 \
+Students that fell within the <$564 category performed the best in comparison to other spending-categories across the board. Thomas High School affects the performance of schools in the $630-$644 range of per pupil spending.
+\
 *Before*
 \
 !["SpendingPerStudent_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SpendingPerStudent_All.png)
 \
 *After*
 \
+!["SpendingPerStudent_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SpendingPerStudent_ExcludeTH9th.png)
+\
+\
+In the $630-$644 range, scores decrease about 6-7% for the % of students passing math, reading and overall. Notably, students who attend schools with lower per pupil spending (<$584 or $585-$629) do better than students who attend schools with high per pupil spending ($630-$640 or $645-675).

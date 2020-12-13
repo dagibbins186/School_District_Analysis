@@ -17,7 +17,7 @@ The top five high schools for overall performance were:
 Griffin High School moved into second place after the scores of Thomas High School's ninth graders were removed from the analysis. Wright High School shifted into the fifth ranking. Thomas High School's upper classman did not perform as well as Wright High School's upper classman. For example, Wright High School's 11th graders earned 83.84% in math. Its 12th graders obtained a 84.07% in reading. Comparatively, Thomas High School's 11th graders received math scores of 83.50%. It's 12th graders posted reading scores of 83.83%. While the score-differences beween the high schools appeared marginal, it effectively pushed Thomas High School out of the top-five-schools-list.
 \
 \
-**District Performance with and without Thomas High School**
+**District Performance with and without Thomas High School's 9th Grade-Scores**
 \
 The district's overall performance look similar before and after Thomas High School's data alterations.
 \

@@ -28,3 +28,6 @@ The district's overall performance look similar before and after Thomas High Sch
 \
 \
 Overall performance dropped about 1% across 3 indicators of achievement: students passing math, reading and overall. These scores decreased to 74%, 86% and 64% respectively.
+
+**School Spending, Size, Type**
+\

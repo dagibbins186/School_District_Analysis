@@ -19,7 +19,7 @@ Griffin High School moved into second place after the scores of Thomas High Scho
 \
 **District Performance with and without Thomas High School's 9th-Grade Scores**
 \
-The district's overall performance look similar before and after Thomas High School's data alterations.
+The district's overall performance looked similar before and after Thomas High School's data alterations.
 \
 \
 *Before:*
@@ -36,7 +36,7 @@ Overall performance dropped about 1% across 3 indicators of achievement: student
 \
 **School Performance by Size** 
 \
-Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000) students, Thomas High School falls into the medium category. Without its 9th graders scores, the performance of 'medium' size schools decreased dramatically. 
+Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000) students, Thomas High School fell into the medium category. Without its 9th graders scores, the performance of 'medium' size schools decreased dramatically. 
 \
 \
 *Before*
@@ -48,7 +48,7 @@ Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 stude
 !["SchoolSize_Scores_Exclude_TH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SchoolSize_Scores_Exclude_TH9th.png)
 \
 \
-The initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools. In general, larges schools (2,000-5,000 students) had the worse student scores and small schools (<1000) had the best student scores.
+The initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools. In general, larger schools (2,000-5,000 students) had the worst student scores and small schools (<1000) had the best student scores.
 \
 \
 **School Performance by Type** 
@@ -62,12 +62,12 @@ Similarly, performance among charter schools became worse after excluding the Th
 \
 !["Charter_District_School_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/Charter_District_School_ExcludeTH9th.png)
 \
-In both scenarios, charter schools do better than the district schools. The average math and average reading scores also do not change. However, the % of students passing in math, reading and overall goes down 3-4 percentage points among charter schools. 
+In both scenarios, charter schools did better than the district schools. The average math and average reading scores also did not change. However, the % of students passing in math, reading and overall went down 3-4 percentage points among charter schools. 
 \
 \
 **School Performance by Budget** 
 \
-Students that fell within the <$564 category performed the best in comparison to other spending-categories across the board. Thomas High School affects the performance of schools in the $630-$644 range of per pupil spending.
+Students that fell within the <$564 category performed the best in comparison to other spending-categories across the board. Thomas High School affected the performance of schools in the $630-$644 range of per pupil spending.
 \
 *Before*
 \
@@ -78,4 +78,4 @@ Students that fell within the <$564 category performed the best in comparison to
 !["SpendingPerStudent_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SpendingPerStudent_ExcludeTH9th.png)
 \
 \
-In the $630-$644 range, scores decrease about 6-7% for the % of students passing math, reading and overall. Notably, students who attend schools with lower per pupil spending (<$584 or $585-$629) do better than students who attend schools with high per pupil spending ($630-$640 or $645-675).
+In the $630-$644 range, scores decreased about 6-7% for the % of students passing math, reading and overall. Notably, students who attended schools with lower per pupil spending (<$584 or $585-$629) did better than students who attended schools with high per pupil spending ($630-$640 or $645-675).

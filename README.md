@@ -22,4 +22,6 @@ Before:
 \
 After:
 \
+!["School_District_Analysis/blob/main/Images/District_Summary_ExcludeTH9th"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/District_Summary_ExcludeTH9th.png)
+\
 Overall performance dropped about 1% to 64% passing.

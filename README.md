@@ -36,6 +36,7 @@ Overall performance dropped about 1% across 3 indicators of achievement: student
 \
 Thomas High School is a charter school with about 1,635 students and a budget of $1,043,130. Its % of students passing math (93.27%), reading (97.31%) and overall marks (90.95%) dropped 26.36%, 30.4% and 25.87% to 66.91%, 69.66%, 65.08%. Even though only 461 student scores switched to NaN, it greatly affected Thomas High School's profile.
 \
+\
 Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000) students, Thomas High School falls into the medium category. Without its 9th graders scores, the performance of 'medium' size schools decreased dramatically. 
 \
 \

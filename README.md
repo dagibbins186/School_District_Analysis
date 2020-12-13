@@ -38,6 +38,7 @@ Thomas High School is a charter school with about 1,635 students and a budget of
 \
 Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 students) and large (2,000-5,000) students, Thomas High School falls into the medium category. Without its 9th graders scores, the performance of 'medium' size schools decreased dramatically. 
 \
+\
 *Before*
 \
 !["SchoolSize_Scores_All"](https://github.com/dagibbins186/School_District_Analysis/blob/main/Images/SchoolSize_Scores_All.png)
@@ -48,6 +49,7 @@ Binning schools into sizes of small (<1,000 students), medium (1,000-2,000 stude
 \
 \
 The initial analysis showed 94% of students passing math, 97% of students passing reading and 91% of students passing overall. In the edited analysis, only 88% of students passed math, 91% of students passed reading and 85% of students passed overall among the medium schools.
+\
 \
 Similarly, performance among charter schools became worse after excluding the Thomas High School 9th graders. 
 \
